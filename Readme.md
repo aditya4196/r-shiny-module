@@ -30,5 +30,5 @@ For the below 2 tasks, i completed them halfway but was facing some issue and co
 (created the simple rest api in the api.R file but was facing some issue in reading the output data on the client end)
 1. Once you have the SQL connected to the app we want to have a RESP API ready to send and receive information through the shiny app. Please make it public. This item is open if you have other ideas please feel free, we just need to be able to connect to another API end to send and receive requests.
 
-(Dockerfile is committed, built the image successfully but issue in accesing the shiny app host url due to my macbook (linux/arm compatibility issue)).
+(Dockerfile is committed, built the image successfully but issue in accesing the shiny app host url due to my macbook - linux/arm compatibility issue)
 2. Once you have that deploy the shiny app in Docker container, you can be as creative as you want if you think adding scalability would be a good idea go for it. Here is the short cut that you can use https://www.rocker-project.org/.
