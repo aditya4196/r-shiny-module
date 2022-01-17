@@ -1,7 +1,9 @@
 
 
-##Thank you for giving me this challenge, it was a great challenge and i was able to learn a lot in such a short time.
-#Code is been pushed to the main branch and data is stored in Postgresql deployed in heroku, below are the credentials,
+Thank you for giving me this challenge, it was a great challenge and i was able to learn a lot in such a short time.
+
+Code is been pushed to the main branch and data is stored in Postgresql deployed in heroku, below are the credentials,
+
 Host - ec2-3-232-22-121.compute-1.amazonaws.com
 Database - d5vagge42r7rek
 User - asuweqjvaxgoka
